@@ -20,7 +20,6 @@
  
  #
  <div>
-    <a href = "mailto:ptrk2511@gmail.com" target="_blank"><img height="20" width="60" src="https://img.shields.io/badge/-GMAIL-blue" destino ="_blank"></a>
-    <a href="https://instagram.com/ptrk.love" target="_blank"><img height="20" width="60" src="https://img.shields.io/badge/-INSTAGRAM-red" target="_blank"></a>
+    <a href = "mailto:ptrk2511@gmail.com" target="_blank"><img height="26" width="80" src="https://img.shields.io/badge/-Gmail-ff0512?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
+    <a href="https://instagram.com/ptrk.love" target="_blank"><img height="26" width="80" src="https://img.shields.io/badge/-Instagram-ff0569?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
- 
